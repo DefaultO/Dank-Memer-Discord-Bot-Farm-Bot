@@ -3,7 +3,7 @@ Using the [Anarchy Framework](https://github.com/not-ilinked/Anarchy) for Discor
 
 This here abused Bot can be found here: https://dankmemer.lol/
 
-In case you want to compile the Anarchy Library yourself, you will have to put this here before the used ``HttpClient()`` gets created, Discord only allows up-to-date security connections.
+In case you want to compile the Anarchy Library yourself, you will have to put this here before the used ``HttpClient()`` gets created (found [**HERE**](https://github.com/not-ilinked/Anarchy/blob/231c41aeb4955e8c0d63ee3bf38e6638cd9b778b/Anarchy/REST/SuperProperties.cs#L16)), Discord only allows up-to-date security connections.
 ```csharp
 ServicePointManager.SecurityProtocol = SecurityProtocolType.Ssl3 | SecurityProtocolType.Tls | SecurityProtocolType.Tls11 | SecurityProtocolType.Tls12;
 ```

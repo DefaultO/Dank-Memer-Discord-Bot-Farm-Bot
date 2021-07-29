@@ -1,4 +1,6 @@
 # Dank Memer Discord Bot Farm Bot
+
+## Disclaimer! They ban/blacklist you for constantly using commands on the Bot. You won't be able to use the Bot anymore. Risk that on your own. I am not responsible for how you use my Code. Put delays/human like logic to bypass that. Max 20 Minutes for example per day.
 Using the [Anarchy Framework](https://github.com/not-ilinked/Anarchy) for Discord Selfbots, I've coded a simple logic together that farms you some bot currency. The more alt accounts you have, the more you will profit from it. In something like 5 hours I've made **700.000+ "⏣"** with 1 Account only. Note that I have donator privilege and thus have to wait 10 seconds less than you between command uses.
 
 This here abused Bot can be found here: https://dankmemer.lol/
